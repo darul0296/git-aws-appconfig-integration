@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AwsGitIntegrationApplication {
 
-	//Test Commit2
+	//Test Commit3
 	public static void main(String[] args) {
 		SpringApplication.run(AwsGitIntegrationApplication.class, args);
 	}
